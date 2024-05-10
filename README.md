@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, me llamo Fausto
+#### Estudiante de Ingeniería en Software
+![Estudiante de Ingeniería en Software](https://github.com/FausBer/Web-Fausto/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.jpg?raw=true)
 
-<!--
-**FausBer/FausBer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Fausto Bernasconi, tengo 21 años, estoy cursando mi segundo año de ingeniería en Software.Soy un apasionado por la tecnología y la innovación. 🚀
 
-Here are some ideas to get you started:
+Habilidades: PYTHON / JAVA / HTML / CSS / MYSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Cómo contactarme: fausto10bernasconi@gmail.com 
+
+
+
+
